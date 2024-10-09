@@ -22,3 +22,4 @@ The tool contains all the documentation you need to know more about the tool, we
 ## Where do I download the tool?
 
 Here: https://github.com/ReneLergner/WPinternals/releases/latest
+
